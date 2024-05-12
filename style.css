@@ -1,0 +1,62 @@
+.container{
+    background-color: rgb(227, 224, 224);
+    width: 100%;
+}
+table{
+    border: 3;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #0077FF;
+    height: 40px;
+    margin-right: 200px;
+}
+th,td,tr{
+    border: none;
+}
+#logo{
+    display: block;
+    margin-right: 0;
+    margin-left: auto;
+    height: 50px;
+}
+#search{
+    width: 98%;
+    height: 30px;
+}
+.login{
+    width: 120px;
+    background-color: white;
+    color: cornflowerblue;
+    height: 30px;
+    margin-left: 18px;  
+    margin-right: auto;  
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 1.5px;
+    font-size: 18px;
+}
+.second{
+    border-collapse: collapse;
+    width: 100%;
+    background-color: white;
+}
+th,tr{
+    /* border: 1px solid black; */
+}
+
+.third{
+    width: 100%;
+}
+.forth{
+    width: 100%;
+}
+/* tr,td{
+    width: 100%;
+    background-color: white;
+} */
+.footer{
+    display: block;
+}
+.last2{
+    flex-grow: 1;
+}
